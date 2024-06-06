@@ -17,8 +17,8 @@ Repository for Session on "Processing text and text as data" and "Topic modeling
 
 **📚 2_Reading list_Topic modeling**: Contains reading list for respective session. Please make sure to read the required text before the respective session.
 
-**💻 3_R Code_Topic modeling**: Contains R code for respective session via Colab Notebook.
+**💻 3_R Code_Topic modeling**: Contains R code for respective session via Colab Notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valeriehase/Salamanca-CSS-SummerSchool/blob/main/Topic%20modeling/R_Code_Topic_Modeling.ipynb)
 
-**💻 4_Python Code_Topic modeling**: Contains Python code for respective session via Colab Notebook.
+**💻 4_Python Code_Topic modeling**: Contains Python code for respective session via Colab Notebook. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valeriehase/Salamanca-CSS-SummerSchool/blob/main/Topic%20modeling/R_Code_Topic_Modeling.ipynb)
 
 **📝 data_tvseries** : Contains CSV-dataset on best rated TV series. Provided under MIT license via [Kaggle](https://www.kaggle.com/datasets/khushikhushikhushi/imdb-top-rated-tv-series-dataset).
